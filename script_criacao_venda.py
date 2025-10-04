@@ -155,7 +155,15 @@ class VendasCriacao:
         for i in missing_indices[2*len(missing_indices)//3:]:
             df_sujo.loc[i, 'Categoria'] = np.nan
 
-        # 2. Duplicatas (~3%)
+
+        # 2. Outliers de preço
+        outlier_indices = random.sample(range(len(df_sujo)), 5)
+        for idx in outlier_indices:
+            if pd.notna(df_sujo.loc[idx, 'Preço']):
+                df_sujo.loc[idx, 'Preço'] *= random.uniform(5, 10)
+
+
+        # 3. Duplicatas (~3%)
         n_duplicatas = int(len(df_sujo) * 0.03)
         indices_duplicar = random.sample(range(len(df_sujo)), n_duplicatas)
 
@@ -168,12 +176,7 @@ class VendasCriacao:
 
         # concatena os duplicados
         df_sujo = pd.concat([df_sujo, duplicatas], ignore_index=True)
-
-        # 3. Outliers de preço
-        outlier_indices = random.sample(range(len(df_sujo)), 5)
-        for idx in outlier_indices:
-            if pd.notna(df_sujo.loc[idx, 'Preço']):
-                df_sujo.loc[idx, 'Preço'] *= random.uniform(5, 10)
+        
 
         return df_sujo
 

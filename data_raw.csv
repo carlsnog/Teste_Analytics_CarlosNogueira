@@ -33,7 +33,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 32,2023-10-04,Webcam Full HD,Periféricos,3.0,227.93
 33,2023-12-10,Cabo HDMI,,3.0,30.8
 34,2023-05-07,Smartphone Samsung Galaxy,Celulares,3.0,2197.06
-35,2023-10-29,Smartphone Samsung Galaxy,Celulares,3.0,6662.629969915779
+35,2023-10-29,Smartphone Samsung Galaxy,Celulares,3.0,1305.97
 36,2023-02-04,Pen Drive 64GB,Armazenamento,4.0,40.32
 37,2023-09-06,Smartphone Samsung Galaxy,Celulares,3.0,2237.18
 38,2023-05-05,Webcam Full HD,Periféricos,4.0,314.75
@@ -42,7 +42,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 41,2023-02-25,Smartphone Samsung Galaxy,Celulares,2.0,1452.33
 42,2023-04-04,iPhone 14,Celulares,1.0,4886.26
 43,2023-10-09,Mouse Logitech,Periféricos,3.0,222.12
-44,2023-02-17,Mousepad Gamer,Periféricos,5.0,943.4340775160285
+44,2023-02-17,Mousepad Gamer,Periféricos,5.0,122.2
 45,2023-07-25,Pen Drive 64GB,Armazenamento,1.0,79.19
 46,2023-05-16,Mousepad Gamer,Periféricos,2.0,113.45
 47,2023-10-12,Cabo HDMI,Acessórios,1.0,25.38
@@ -72,7 +72,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 71,2023-05-08,Smartphone Samsung Galaxy,Celulares,1.0,1888.58
 72,2023-01-20,Pen Drive 64GB,Armazenamento,2.0,44.23
 73,2023-04-27,Smartphone Samsung Galaxy,Celulares,2.0,1790.87
-74,2023-02-05,Mousepad Gamer,Periféricos,3.0,126.41
+74,2023-02-05,Mousepad Gamer,Periféricos,3.0,992.738001711976
 75,2023-12-14,Cadeira Gamer,Móveis,1.0,996.08
 76,2023-05-14,"Monitor Samsung 24""",Monitores,4.0,1217.6
 77,2023-06-26,Caixa de Som JBL,Áudio,3.0,790.54
@@ -94,7 +94,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 93,2023-03-04,Carregador USB-C,Acessórios,5.0,77.5
 94,2023-08-15,Cabo HDMI,Acessórios,3.0,29.94
 95,2023-10-08,Carregador USB-C,Acessórios,2.0,52.5
-96,2023-05-07,Pen Drive 64GB,Armazenamento,3.0,504.46649983975925
+96,2023-05-07,Pen Drive 64GB,Armazenamento,3.0,51.65
 97,2023-05-03,iPhone 14,Celulares,2.0,4468.99
 98,2023-06-21,iPhone 14,Celulares,1.0,4301.66
 99,2023-07-16,Cabo HDMI,Acessórios,1.0,29.52
@@ -122,7 +122,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 121,2023-08-11,"Monitor Samsung 24""",Monitores,3.0,989.06
 122,2023-10-03,Webcam Full HD,Periféricos,,298.12
 123,2023-06-15,Pen Drive 64GB,Armazenamento,5.0,
-124,2023-08-26,SSD 512GB,Armazenamento,2.0,411.48
+124,2023-08-26,SSD 512GB,Armazenamento,2.0,2783.283719926602
 125,2023-06-16,"Monitor Samsung 24""",Monitores,2.0,1038.24
 126,2023-11-02,Caixa de Som JBL,Áudio,1.0,509.98
 127,2023-04-08,Mouse Logitech,Periféricos,2.0,174.38
@@ -148,7 +148,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 147,2023-11-01,Carregador USB-C,Acessórios,2.0,65.35
 148,2023-12-26,Pen Drive 64GB,Armazenamento,,75.82
 149,2023-11-17,Cabo HDMI,Acessórios,4.0,34.06
-150,2023-11-28,Teclado Mecânico,Periféricos,1.0,242.85
+150,2023-11-28,Teclado Mecânico,Periféricos,1.0,1441.695917401186
 151,2023-03-26,Webcam Full HD,Periféricos,3.0,380.3
 152,2023-08-13,Teclado Mecânico,Periféricos,3.0,441.51
 153,2023-05-20,Carregador USB-C,Acessórios,1.0,59.9
@@ -183,7 +183,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 182,2023-09-07,Pen Drive 64GB,Armazenamento,1.0,37.91
 183,2023-12-17,Mousepad Gamer,Periféricos,5.0,196.75
 184,2023-11-21,Caixa de Som JBL,Áudio,1.0,616.4
-185,2023-01-15,Mouse Logitech,Periféricos,2.0,1062.4216383480348
+185,2023-01-15,Mouse Logitech,Periféricos,2.0,140.94
 186,2023-08-09,Teclado Mecânico,Periféricos,3.0,609.08
 187,2023-04-03,"Monitor Samsung 24""",Monitores,2.0,1233.8
 188,2023-05-04,Carregador USB-C,Acessórios,1.0,53.06
@@ -218,7 +218,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 217,2023-04-19,Cabo HDMI,Acessórios,,16.77
 218,2023-06-20,Smartphone Samsung Galaxy,Celulares,3.0,1569.37
 219,2023-10-11,Smartphone Samsung Galaxy,Celulares,1.0,1791.41
-220,2023-03-17,Webcam Full HD,Periféricos,2.0,364.6
+220,2023-03-17,Webcam Full HD,Periféricos,2.0,3041.1557680224946
 221,2023-03-16,Mesa de Escritório,Móveis,1.0,731.91
 222,2023-01-14,Teclado Mecânico,Periféricos,1.0,553.31
 223,2023-01-09,"Monitor Samsung 24""",Monitores,3.0,1094.67
@@ -267,7 +267,7 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 266,2023-11-18,iPhone 14,Celulares,2.0,4884.42
 267,2023-06-05,Impressora HP,Impressoras,2.0,805.87
 268,2023-06-08,Carregador USB-C,Acessórios,2.0,71.58
-269,2023-02-09,Cabo HDMI,Acessórios,5.0,278.5910037750773
+269,2023-02-09,Cabo HDMI,Acessórios,5.0,31.19
 270,2023-10-11,Mousepad Gamer,Periféricos,1.0,117.46
 271,2023-10-20,Cabo HDMI,Acessórios,2.0,32.55
 272,2023-02-01,Carregador USB-C,Acessórios,4.0,55.23
@@ -293,18 +293,18 @@ ID,Data,Produto,Categoria,Quantidade,Preço
 292,2023-07-10,HD Externo 1TB,Armazenamento,3.0,555.35
 293,2023-05-26,Mouse Logitech,Periféricos,2.0,233.9
 294,2023-03-17,Roteador Wi-Fi,Rede,1.0,435.85
-295,2023-06-28,Mousepad Gamer,Periféricos,2.0,125.3
+295,2023-06-28,Mousepad Gamer,Periféricos,2.0,627.4800564622744
 296,2023-05-01,Fones Bluetooth,Áudio,1.0,111.28
 297,2023-02-20,Pen Drive 64GB,Armazenamento,1.0,32.57
 298,2023-05-27,Pen Drive 64GB,Armazenamento,1.0,66.74
 299,2023-08-29,Carregador USB-C,Acessórios,1.0,30.95
 300,2023-04-21,Roteador Wi-Fi,Rede,3.0,363.11
-301,2023-06-28,Mousepad Gamer,Periféricos,2.0,125.3
-302,2023-08-26,SSD 512GB,Armazenamento,2.0,411.48
-303,2023-02-05,Mousepad Gamer,Periféricos,3.0,126.41
-304,2023-11-28,Teclado Mecânico,Periféricos,1.0,242.85
-305,2023-03-17,Webcam Full HD,Periféricos,2.0,364.6
-306,2023-11-24,Teclado Mecânico,Periféricos,1.0,333.93
-307,2023-10-01,Fones Bluetooth,Áudio,3.0,454.98
-308,2023-05-26,Mouse Logitech,Periféricos,2.0,233.9
-309,2023-07-09,Smartphone Samsung Galaxy,Celulares,1.0,2739.81
+301,2023-02-09,Cabo HDMI,Acessórios,5.0,31.19
+302,2023-01-15,Mouse Logitech,Periféricos,2.0,140.94
+303,2023-10-29,Smartphone Samsung Galaxy,Celulares,3.0,1305.97
+304,2023-10-11,Mousepad Gamer,Periféricos,1.0,117.46
+305,2023-12-29,Mousepad Gamer,Periféricos,2.0,146.52
+306,2023-09-26,Mouse Logitech,Periféricos,4.0,136.62
+307,2023-10-04,Roteador Wi-Fi,Rede,5.0,456.74
+308,2023-02-21,Fones Bluetooth,Áudio,2.0,165.06
+309,2023-06-17,Webcam Full HD,Periféricos,1.0,346.63
