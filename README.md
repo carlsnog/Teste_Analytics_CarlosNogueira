@@ -1,4 +1,4 @@
-# Teste_Analytics_CarlosNogueira
+Teste_Analytics_CarlosNogueira
 
 # Análise Exploratória de Dados de Vendas
 
@@ -22,4 +22,7 @@ Esta análise exploratória examina dados de vendas de 2023, focando em tendênc
 - Análise por categoria (barras horizontais)
 - Top 10 produtos por receita
 - Performance trimestral por categoria
+
+
+## Interpretação de Resultados
 
