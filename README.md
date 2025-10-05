@@ -8,8 +8,8 @@ Esta análise exploratória examina dados de vendas de 2023, focando em tendênc
 ## Arquivos Principais
 - `raw_data.csv` - Dados originais gerados
 - `df_limpo.csv` - Dados de venda tratado
-- `limpeza_analise_venda` - Notebook principal com o processo de limpeza e analise dos dados
-- `script_criacao_venda` - script de criação dos dados de venda
+- `limpeza_analise_venda.ipynb` - Notebook principal com o processo de limpeza e analise dos dados
+- `script_criacao_venda.py` - script de criação dos dados de venda
 
 ## Arquivos Gerados
 - `vendas_mensais_analise.csv` - Análise temporal mensal

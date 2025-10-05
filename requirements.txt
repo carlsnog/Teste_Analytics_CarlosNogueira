@@ -1,0 +1,6 @@
+# Dependências do projeto
+pandas
+matplotlib
+numpy
+seaborn
+jupyter
