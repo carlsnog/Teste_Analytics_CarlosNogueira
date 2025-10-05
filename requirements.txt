@@ -1,6 +1,5 @@
 # Dependências do projeto
-pandas
-matplotlib
-numpy
-seaborn
-jupyter
+pandas==2.2.2
+matplotlib==3.10.0
+numpy==2.0.2
+plotly==5.24.1
