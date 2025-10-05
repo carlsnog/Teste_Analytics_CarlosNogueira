@@ -3,13 +3,14 @@ Teste_Analytics_CarlosNogueira
 # Análise Exploratória de Dados de Vendas
 
 ## Descrição
-Esta análise exploratória examina dados de vendas de 2023, focando em tendências temporais, performance por categoria e produto, e identificação de padrões comerciais relevantes.
+Esta análise exploratória examina dados de vendas simulada de 2023, focando em tendências temporais, performance por categoria e produto, e identificação de padrões comerciais relevantes.
 
 ## Arquivos Principais
 - `raw_data.csv` - Dados originais gerados
 - `df_limpo.csv` - Dados de venda tratado
 - `limpeza_analise_venda.ipynb` - Notebook principal com o processo de limpeza e analise dos dados
-- `script_criacao_venda.py` - script de criação dos dados de venda
+- `script_criacao_venda.py` - Script de criação dos dados de venda
+- `relatorio_insights.md` - Resumo executivo dos principais resultados identificados
 
 ## Arquivos Gerados
 - `vendas_mensais_analise.csv` - Análise temporal mensal
@@ -22,7 +23,4 @@ Esta análise exploratória examina dados de vendas de 2023, focando em tendênc
 - Análise por categoria (barras horizontais)
 - Top 10 produtos por receita
 - Performance trimestral por categoria
-
-
-## Interpretação de Resultados
 
